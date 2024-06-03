@@ -12,3 +12,4 @@ Resources:
 - [.NET Aspire Samples](https://github.com/dotnet/aspire)
 - [.NET Aspire SQL Server component](https://learn.microsoft.com/en-us/dotnet/aspire/database/sql-server-component?tabs=dotnet-cli)
 - [Aspirate (Aspir8) (Docker Compose/Kubernetes Manifests from Aspire)](https://github.com/prom3theu5/aspirational-manifests)
+- [.NET Aspire Shop sample](https://learn.microsoft.com/en-us/samples/dotnet/aspire-samples/aspire-shop/)
