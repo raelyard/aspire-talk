@@ -1,10 +1,11 @@
-# Getting to Know .NET Aspire
+# Up and Running with .NET Aspire
 
 Presentation Slides for:
-- talk at [Denver Dev Day](https://denverdevday.github.io/may-2024/) - May 31, 2024
+- talk at [Denver Dev Day](https://denverdevday.github.io/jun-2025/) - June 27, 2025
 
 Resources:
 - [The Presentation Slides](https://raelyard.github.io/aspire-talk/)
+- [Getting Started with .NET Aspire by Dave Rael](https://link.springer.com/book/10.1007/979-8-8688-1521-8)
 - [.NET Aspire Repository](https://github.com/dotnet/aspire)
 - [All of the Documentation](https://learn.microsoft.com/en-us/dotnet/aspire/)
 - [Overview](https://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview)
